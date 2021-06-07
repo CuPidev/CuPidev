@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Qattiel Studio**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C++, AI and Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
