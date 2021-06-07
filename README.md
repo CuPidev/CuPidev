@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cupidev" alt="cupidev" /></a> </p>
 
-- 🔭 I’m currently working on **Qattiel Studio**
+- 🔭 I’m currently working on **Project Qattiel**
 
 - 🌱 I’m currently learning **C++, AI and Python**
 
