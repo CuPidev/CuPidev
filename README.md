@@ -25,6 +25,9 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cupidev&show_icons=true&locale=en&layout=compact" alt="cupidev" /></p>
 
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=TechnologyElan)](https://github.com/gazf/github-readme-twitter)
+
+
 <!--
 **CuPidev/CuPidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
