@@ -3,9 +3,9 @@
 
 
 
-- 🔭 I’m currently working on **Elan Technology**
+- 🔭 I’m currently working on **Elan Technology Company**
 
-- 🌱 I’m currently learning **C++, Python, Lua and AI**
+- 🌱 I’m currently learning **Lua, Python and Economics**
 
 
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
