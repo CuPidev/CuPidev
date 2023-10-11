@@ -2,7 +2,7 @@
 <h3 align="center">Learning.</h3>
 
 
-
+- I'm studying Computer Science at USI Lugano.
 - 🔭 I’m currently working on **Elan Technology Company**
 
 - 🌱 I’m currently learning **Lua, Python and Economics**
