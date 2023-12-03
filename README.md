@@ -7,7 +7,9 @@
 
 - 🌱 I’m currently learning **Lua, Python and Economics**
 
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,python,spring,hibernate,express,vue,bootstrap,postgres,mysql,mongodb,nodejs,maven,git,docker,linux&perline=8" />
+</p>
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
