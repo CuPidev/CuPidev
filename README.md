@@ -18,7 +18,6 @@
 </p>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=CuPidev&theme=dark"/></a>
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=TechnologyElan)](https://github.com/gazf/github-readme-twitter)
 
 
 <!--
