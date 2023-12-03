@@ -11,7 +11,7 @@
   <img src="https://skillicons.dev/icons?i=java,js,python,spring,lua,express,cpp,bootstrap,postgres,mysql,mongodb,nodejs,maven,git,docker,linux&perline=8" />
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cupidev&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=github_dark_dimmed&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cupidev&theme=github_dark_dimmed&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=github_dark_dimmed&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
