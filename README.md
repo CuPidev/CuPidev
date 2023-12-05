@@ -12,10 +12,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cupidev&theme=github_dark_dimmed&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cupidev&layout=compact&theme=github_dark_dimmed&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/qattielx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="qattielx" height="30" width="40" /></a>
-</p>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=CuPidev&theme=dark"/></a>
 
 
