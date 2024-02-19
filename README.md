@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm CuPi</h1>
 <h3 align="center">Learning.</h3>
 
-
-- I'm studying Computer Science at USI Lugano.
-- 🔭 I’m currently working on **Elan Technology Company**
-- 🌱 I’m currently learning **Java, Python and Lua**
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,python,spring,lua,express,cpp,bootstrap,tensorflow,mysql,mongodb,nodejs,maven,git,docker,linux&perline=8" />
 </p>
