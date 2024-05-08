@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm CuPi</h1>
-<h3 align="center">Learning.</h3>
+<h3 align="center">???</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,python,spring,lua,express,cpp,bootstrap,tensorflow,mysql,mongodb,nodejs,maven,git,docker,linux&perline=8" />
