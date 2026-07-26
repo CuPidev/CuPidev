@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm CuPi</h1>
-<h3 align="center">???</h3>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,python,spring,lua,express,cpp,bootstrap,tensorflow,mysql,mongodb,nodejs,maven,git,docker,linux&perline=8" />
 </p>
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=CuPidev&theme=dark"/></a>
-
-
 
 <!--
 **CuPidev/CuPidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
